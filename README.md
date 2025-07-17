@@ -32,5 +32,7 @@ This project is a fully custom 2D movement system made in Roblox Studio using Lu
 - Obby platformers  
 - Custom adventure or story games needing controlled movement
 
-## 📂 Folder Structure (Suggested)
 
+## 📎 License
+
+Free to use in personal and commercial Roblox projects. Credit appreciated but not required.
